@@ -1,5 +1,11 @@
 # Packet-Capture-SDK PHP SDK
 
+<!-- simple-start:start -->
+Use Packet-Capture-SDK from a PHP app.
+
+**Start here.** Run `composer require titancsa/packet-capture-sdk`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
